@@ -1,0 +1,22 @@
+* {
+	margin: 0 auto;
+}
+td, th {
+	padding: 20px;
+}
+h1 {
+	text-align: center;
+}
+form {
+	margin: 0 auto;
+	width: 400px;
+	text-align: center;
+}
+input {
+	margin: 10px;
+}
+p {
+	color: red;
+	text-align: center;
+	margin: 10px;
+}
